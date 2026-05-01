@@ -1,11 +1,47 @@
 ---
-title: "aly-shiroma.github.io"
+title: "Aly Shiroma"
+image: docprofile.png
+resources: joke.pdf
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:alysia.shiroma@ucdenver.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/aly-shiroma
+    - text: Joke for You
+      icon: emoji-laughing
+      href: joke.pdf
+  id: ppc
+format:
+  html:
+    css: styles.css
 ---
 
-his is a Quarto website.
+::: {#pcc}
+## Skills
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I can wiggle my ears.
 
-```{r}
-1 + 1
-```
+I can fold a fitted sheet.
+
+I can go down a mountain with my feet strapped to a piece of wood (a.k.a. snowboard)
+
+## Education 
+
+For high school, I attended Centennial High School in Pueblo, Colorado from 2019 - 2022. I graduated early as a junior.
+
+![Go Bulldogs!!](bulldogs.png)
+
+For college, I am attending the University of Colorado Denver and getting a bachelor's degree in Mathematics - Probability and Statistics. I am graduating this semester. Yay!
+
+For a post graduate education, I will attend medical school starting in July.
+
+![University of Colorado Anschutz](cuanschutz.png)
+
+The University of Colorado Anschutz School of Medicine is located in Aurora, Colorado.
+:::

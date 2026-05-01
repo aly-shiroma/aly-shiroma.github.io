@@ -8,15 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+#      - about.qmd
+      - Hobbies.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+    theme: vapor
+    linkcolor: "#0000FF"
 
 
 
